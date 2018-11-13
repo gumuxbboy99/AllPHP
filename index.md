@@ -11,6 +11,5 @@ ITsP : Noraphat Norasak 6008111008<br/>
 [รายงานพนักงานที่ออกใบเสร็จ](https://gumuxbboy99.000webhostapp.com/php/joinwhere3.php)
 [รายงานรายชื่อสินค้าที่มีอยู่ในสต็อคน้อยกว่า 10 ชิ้น](https://gumuxbboy99.000webhostapp.com/php/joinwhere4.php)
 [รายงานดูประเภทสินค้า](https://gumuxbboy99.000webhostapp.com/php/joinwhere5.php)
-==================================================================================================
 <a href="https://uppic.cc/v/Bmr" title="" ><img src="https://uppic.cc/d/Bmr" alt="" /></a>
 [ระบบขายสินค้า](https://gumuxbboy99.000webhostapp.com/php/menu02.php)
