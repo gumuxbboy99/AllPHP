@@ -1,6 +1,6 @@
 <img src="https://www.picz.in.th/images/2018/10/23/kFck1I.jpg" alt="kFck1I.jpg" border="0" width="100" height="100"/>
 ITsP : Noraphat Norasak 6008111008<br/>
-[Home](https://gumuxbboy99.000webhostapp.com/php/menu02.php)
+[MyWork](https://gumuxbboy99.000webhostapp.com/FinalProject/menu02.php)
 [join1](https://gumuxbboy99.000webhostapp.com/php/join1.php)
 [join2](https://gumuxbboy99.000webhostapp.com/php/join2.php)
 [join3](https://gumuxbboy99.000webhostapp.com/php/join3.php)
@@ -13,4 +13,4 @@ ITsP : Noraphat Norasak 6008111008<br/>
 [รายงานดูประเภทสินค้า](https://gumuxbboy99.000webhostapp.com/php/joinwhere5.php)
 ====================================Order===========================================================
 <a href="https://uppic.cc/v/Bmr" title="" ><img src="https://uppic.cc/d/Bmr" alt="" /></a>
-[ระบบขายสินค้า](https://gumuxbboy99.000webhostapp.com/php/menu02.php)
+[ระบบขายสินค้า](https://gumuxbboy99.000webhostapp.com/FinalProject/myorderform.php)
